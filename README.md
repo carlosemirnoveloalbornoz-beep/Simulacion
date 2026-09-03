@@ -4,5 +4,5 @@
 
 Integrantes 
 
-Carlos Emir Novelo Albornoz
+Carlos Emir Novelo Albornoz,
 Orlando Cordova Herrera
